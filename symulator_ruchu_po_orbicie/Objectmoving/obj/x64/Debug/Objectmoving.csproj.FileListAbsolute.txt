@@ -1,0 +1,8 @@
+E:\Users\Herkes\Documents\Visual Studio 2010\Projects\Objectmoving\Objectmoving\bin\x64\Debug\Objectmoving.exe
+E:\Users\Herkes\Documents\Visual Studio 2010\Projects\Objectmoving\Objectmoving\bin\x64\Debug\Objectmoving.pdb
+E:\Users\Herkes\Documents\Visual Studio 2010\Projects\Objectmoving\Objectmoving\obj\x64\Debug\Objectmoving.Properties.Resources.resources
+E:\Users\Herkes\Documents\Visual Studio 2010\Projects\Objectmoving\Objectmoving\obj\x64\Debug\Objectmoving.csproj.GenerateResource.Cache
+E:\Users\Herkes\Documents\Visual Studio 2010\Projects\Objectmoving\Objectmoving\obj\x64\Debug\Objectmoving.exe
+E:\Users\Herkes\Documents\Visual Studio 2010\Projects\Objectmoving\Objectmoving\obj\x64\Debug\Objectmoving.pdb
+E:\Users\Herkes\Documents\Visual Studio 2010\Projects\Objectmoving\Objectmoving\obj\x64\Debug\Objectmoving.csprojResolveAssemblyReference.cache
+E:\Users\Herkes\Documents\Visual Studio 2010\Projects\Objectmoving\Objectmoving\obj\x64\Debug\Objectmoving.FormView.resources

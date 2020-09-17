@@ -1,0 +1,9 @@
+e:\users\herkes\documents\visual studio 2010\Projects\Objectmoving\Objectmoving\obj\x86\Debug\Objectmoving.Properties.Resources.resources
+e:\users\herkes\documents\visual studio 2010\Projects\Objectmoving\Objectmoving\obj\x86\Debug\Objectmoving.csproj.GenerateResource.Cache
+e:\users\herkes\documents\visual studio 2010\Projects\Objectmoving\Objectmoving\bin\Debug\Objectmoving.exe
+e:\users\herkes\documents\visual studio 2010\Projects\Objectmoving\Objectmoving\bin\Debug\Objectmoving.pdb
+e:\users\herkes\documents\visual studio 2010\Projects\Objectmoving\Objectmoving\obj\x86\Debug\Objectmoving.exe
+e:\users\herkes\documents\visual studio 2010\Projects\Objectmoving\Objectmoving\obj\x86\Debug\Objectmoving.pdb
+e:\users\herkes\documents\visual studio 2010\Projects\Objectmoving\Objectmoving\bin\Debug\zaraz.bmp
+E:\Users\Herkes\Documents\Visual Studio 2010\Projects\Objectmoving\Objectmoving\obj\x86\Debug\Objectmoving.csprojResolveAssemblyReference.cache
+E:\Users\Herkes\Documents\Visual Studio 2010\Projects\Objectmoving\Objectmoving\obj\x86\Debug\Objectmoving.FormView.resources
